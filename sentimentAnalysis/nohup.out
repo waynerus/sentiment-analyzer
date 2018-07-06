@@ -1,0 +1,1338 @@
+[W 03:02:35.271 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 03:02:35.351 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 03:02:35.352 NotebookApp] 0 active kernels
+[I 03:02:35.353 NotebookApp] The Jupyter Notebook is running at:
+[I 03:02:35.353 NotebookApp] http://[all ip addresses on your system]:5555/?token=4f5ddb112f4b39dc5868367034ad8bb99dd94d3f4a1969d2
+[I 03:02:35.353 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:02:35.356 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=4f5ddb112f4b39dc5868367034ad8bb99dd94d3f4a1969d2
+[I 03:02:43.396 NotebookApp] 302 GET / (192.168.0.109) 5.46ms
+[I 03:05:58.404 NotebookApp] Kernel started: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:06:02.669 NotebookApp] Kernel started: 46bc0f9c-c3a5-41b5-87f1-210d2b81e3b0
+[I 03:06:04.130 NotebookApp] Adapting to protocol v5.1 for kernel c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:06:08.080 NotebookApp] Adapting to protocol v5.1 for kernel 46bc0f9c-c3a5-41b5-87f1-210d2b81e3b0
+[W 03:06:16.515 NotebookApp] 404 GET /files/templates/%7B%7B%20url_for('static',%20filename='style.css')%20%7D%7D (192.168.0.109) 117.73ms referer=None
+[W 03:06:16.967 NotebookApp] 404 GET /files/templates/%7B%7B%20url_for('static',%20filename='style.css')%20%7D%7D (192.168.0.109) 13.26ms referer=None
+[I 03:07:58.910 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:08:40.801 NotebookApp] Starting buffering for 46bc0f9c-c3a5-41b5-87f1-210d2b81e3b0:e433bc42f89f481a8f77343a1e75c7d1
+[I 03:08:53.802 NotebookApp] Kernel shutdown: 46bc0f9c-c3a5-41b5-87f1-210d2b81e3b0
+[W 03:09:00.397 NotebookApp] delete /Untitled.ipynb
+[I 03:09:59.311 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:11:58.598 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:15:59.451 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:18:37.847 NotebookApp] Saving file at /static/style.css
+[I 03:19:59.701 NotebookApp] Saving file at /value_getter.ipynb
+[I 23:35:03.611 NotebookApp] Starting buffering for c10a6c2e-a514-42dc-bece-e86d11db10f2:7c4f7db3524449b68b6e294782b08d11
+[I 02:04:54.936 NotebookApp] Adapting to protocol v5.1 for kernel c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 02:08:55.221 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:18:55.005 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:20:43.021 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:20:54.822 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:24:07.464 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:24:55.136 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:29:18.627 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 02:30:55.608 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:32:55.421 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:33:08.924 NotebookApp] Saving file at /templates/view.html
+[I 02:36:38.105 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:36:55.319 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:37:38.056 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:42:55.273 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:43:05.759 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:44:05.087 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:44:44.869 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:44:55.215 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:45:18.294 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:46:27.239 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:46:55.294 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:48:43.036 NotebookApp] Saving file at /templates/view.html
+[I 02:48:55.427 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:49:34.746 NotebookApp] Saving file at /templates/view.html
+[I 02:50:05.157 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:50:10.100 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 02:50:55.453 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:57:41.135 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:57:46.146 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/usr/local/lib/python3.4/dist-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-123>", line 2, in initialize
+  File "/usr/local/lib/python3.4/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 456, in initialize
+    self.init_sockets()
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 238, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 180, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 547, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 02:58:19.589 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:58:42.397 NotebookApp] Saving file at /templates/view.html
+[I 02:58:55.271 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:59:01.221 NotebookApp] Saving file at /templates/view.html
+[I 02:59:08.899 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 02:59:44.542 NotebookApp] Saving file at /templates/view.html
+[I 02:59:50.683 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:00:49.771 NotebookApp] Saving file at /templates/view.html
+[I 03:00:55.212 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:01:07.383 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:02:52.810 NotebookApp] Saving file at /templates/view.html
+[I 03:02:56.450 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:03:01.391 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:03:20.138 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:03:51.230 NotebookApp] Saving file at /templates/view.html
+[I 03:03:56.443 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:04:46.319 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:06:38.475 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:12:39.211 NotebookApp] Saving file at /templates/view.html
+[I 03:12:45.752 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:12:55.614 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:13:01.242 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:14:21.610 NotebookApp] Saving file at /templates/view.html
+[I 03:14:38.197 NotebookApp] Saving file at /templates/view.html
+[I 03:14:55.682 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:15:40.675 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:16:38.240 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 03:16:55.620 NotebookApp] Saving file at /value_getter.ipynb
+[W 03:34:24.947 NotebookApp] WebSocket ping timeout after 119848 ms.
+[I 03:34:29.958 NotebookApp] Starting buffering for c10a6c2e-a514-42dc-bece-e86d11db10f2:d1611cebda1b471e95ee24d5b7f682d4
+[I 04:13:23.802 NotebookApp] Adapting to protocol v5.1 for kernel c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:13:23.809 NotebookApp] Restoring connection for c10a6c2e-a514-42dc-bece-e86d11db10f2:d1611cebda1b471e95ee24d5b7f682d4
+[I 04:14:55.105 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:16:59.844 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:19:06.539 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:20:16.295 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:20:24.298 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:20:55.661 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:22:48.210 NotebookApp] Saving file at /templates/view.html
+[I 04:22:58.549 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:23:17.824 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:23:41.776 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:23:58.143 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:24:51.558 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:24:56.494 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:24:56.881 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:26:13.083 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:26:17.998 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:26:56.227 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:27:35.757 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:27:40.706 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/usr/local/lib/python3.4/dist-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-123>", line 2, in initialize
+  File "/usr/local/lib/python3.4/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 456, in initialize
+    self.init_sockets()
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 238, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/usr/local/lib/python3.4/dist-packages/ipykernel/kernelapp.py", line 180, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 547, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 04:28:24.481 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:28:29.659 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:28:55.908 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:44:06.615 NotebookApp] Kernel interrupted: c10a6c2e-a514-42dc-bece-e86d11db10f2
+[I 04:44:34.238 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:44:59.102 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:53:25.381 NotebookApp] Starting buffering for c10a6c2e-a514-42dc-bece-e86d11db10f2:d1611cebda1b471e95ee24d5b7f682d4
+[I 04:54:52.378 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[W 00:46:41.513 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 00:46:41.607 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 00:46:41.608 NotebookApp] 0 active kernels
+[I 00:46:41.608 NotebookApp] The Jupyter Notebook is running at:
+[I 00:46:41.609 NotebookApp] http://[all ip addresses on your system]:5555/?token=7ee917d1154c9ac6ced58fc66b33384b8a9d6a54c3f9254a
+[I 00:46:41.609 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:46:41.612 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=7ee917d1154c9ac6ced58fc66b33384b8a9d6a54c3f9254a
+[W 03:30:29.427 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 03:30:29.510 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 03:30:29.511 NotebookApp] 0 active kernels
+[I 03:30:29.512 NotebookApp] The Jupyter Notebook is running at:
+[I 03:30:29.512 NotebookApp] http://[all ip addresses on your system]:5555/?token=b99075a3474cb592505348d3fc627ee3575ad1addb118551
+[I 03:30:29.513 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:30:29.515 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=b99075a3474cb592505348d3fc627ee3575ad1addb118551
+[W 03:43:30.384 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109): Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:43:30.388 NotebookApp] Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:43:30.392 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109) 15.68ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[W 03:44:21.341 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109): Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:44:21.343 NotebookApp] Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:44:21.347 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109) 13.93ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[I 03:44:31.720 NotebookApp] Saving file at /value_getter.ipynb
+[W 03:45:08.182 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109): Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:45:08.184 NotebookApp] Kernel does not exist: 0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4
+[W 03:45:08.188 NotebookApp] 404 POST /api/kernels/0ba869a7-f416-43fd-b1cb-c5d8de9ce2d4/interrupt (192.168.0.109) 14.14ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[I 03:45:26.032 NotebookApp] Kernel started: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 03:45:33.400 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[W 03:45:53.872 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180406033026 (192.168.0.109) 127.54ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[I 03:47:26.917 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:53:41.121 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:53:47.849 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 03:55:27.304 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:59:32.030 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:01:18.849 NotebookApp] Saving file at /templates/view.html
+[I 04:01:21.157 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 04:01:26.969 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:03:27.708 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:11:25.810 NotebookApp] Saving file at /templates/view.html
+[I 04:13:27.055 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:13:56.856 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:13:59.319 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 04:15:27.161 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:22:53.966 NotebookApp] Saving file at /templates/view.html
+[I 04:22:59.580 NotebookApp] Saving file at /static/js/tables.js
+[I 04:33:27.143 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:50:02.017 NotebookApp] Creating new file in 
+[I 04:54:02.963 NotebookApp] Saving file at /getTable.py
+[I 04:58:46.279 NotebookApp] Saving file at /getTable.py
+[I 05:02:42.260 NotebookApp] Saving file at /getTable.py
+[I 05:03:20.028 NotebookApp] Saving file at /static/js/tables.js
+[I 05:03:37.118 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:03:43.117 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:04:18.263 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:04:27.653 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:08:48.955 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:09:26.942 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:09:43.307 NotebookApp] Saving file at /getTable.py
+[I 05:09:47.032 NotebookApp] Saving file at /static/js/tables.js
+[I 05:10:22.589 NotebookApp] Saving file at /static/js/tables.js
+[I 05:10:47.164 NotebookApp] Saving file at /static/js/tables.js
+[I 05:10:51.348 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:11:27.112 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:11:39.251 NotebookApp] Saving file at /templates/view.html
+[I 05:11:43.759 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:13:27.198 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:13:41.226 NotebookApp] Saving file at /templates/view.html
+[I 05:13:47.005 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:15:27.038 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:15:59.565 NotebookApp] Saving file at /templates/view.html
+[I 05:16:07.675 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:17:27.335 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:18:48.003 NotebookApp] Saving file at /static/js/tables.js
+[I 05:18:52.678 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:19:28.905 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:21:27.157 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:21:45.959 NotebookApp] Saving file at /templates/view.html
+[I 05:21:52.047 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:22:08.895 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:23:27.270 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:24:06.333 NotebookApp] Saving file at /templates/view.html
+[I 05:24:53.480 NotebookApp] Saving file at /templates/view.html
+[I 05:24:56.992 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:25:27.266 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:27:08.302 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:27:27.111 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:27:52.315 NotebookApp] Saving file at /templates/view.html
+[I 05:28:40.844 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:29:29.249 NotebookApp] Saving file at /value_getter.ipynb
+[I 05:29:56.725 NotebookApp] Saving file at /static/js/tables.js
+[I 05:30:12.216 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:30:54.204 NotebookApp] Saving file at /static/js/tables.js
+[I 05:31:08.843 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 05:31:27.119 NotebookApp] Saving file at /value_getter.ipynb
+[W 05:38:03.409 NotebookApp] WebSocket ping timeout after 119866 ms.
+[I 05:38:08.420 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:05:04.344 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:05:04.351 NotebookApp] Restoring connection for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:06:05.541 NotebookApp] Saving file at /getTable.py
+[I 00:06:35.456 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:06:47.253 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:07:16.447 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:07:41.462 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:09:15.847 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:14:50.054 NotebookApp] Saving file at /getTable.py
+[I 00:15:15.725 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:15:28.399 NotebookApp] Saving file at /static/js/tables.js
+[W 00:18:04.355 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 00:18:09.361 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:19:14.731 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:19:15.451 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:19:15.456 NotebookApp] Restoring connection for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:19:16.564 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:21:08.255 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:21:54.356 NotebookApp] Saving file at /static/js/tables.js
+[I 00:22:17.033 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:22:53.839 NotebookApp] Saving file at /templates/view.html
+[I 00:22:57.662 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:23:15.679 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:23:16.964 NotebookApp] Saving file at /templates/view.html
+[I 00:23:21.462 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:24:50.853 NotebookApp] Saving file at /getTable.py
+[I 00:24:53.885 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:25:14.211 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:25:15.939 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:25:19.315 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:25:21.586 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:27:15.657 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:28:26.269 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:28:29.636 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:29:16.011 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:32:23.213 NotebookApp] Saving file at /static/js/tables.js
+[I 00:32:29.068 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:33:15.706 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:35:01.925 NotebookApp] Saving file at /static/js/tables.js
+[I 00:37:15.477 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:37:31.725 NotebookApp] Saving file at /templates/view.html
+[I 00:37:35.476 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:37:35.506 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:39:01.053 NotebookApp] Saving file at /static/js/tables.js
+[I 00:39:17.489 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:39:30.329 NotebookApp] Saving file at /static/js/tables.js
+[I 00:39:35.179 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:41:15.532 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:42:39.046 NotebookApp] Saving file at /static/js/tables.js
+[I 00:42:45.030 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[W 00:44:45.459 NotebookApp] WebSocket ping timeout after 119929 ms.
+[I 00:44:50.464 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:57:13.808 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:57:13.814 NotebookApp] Restoring connection for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 00:57:22.428 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:57:23.407 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:58:18.613 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 00:59:16.154 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:59:40.492 NotebookApp] Saving file at /static/js/tables.js
+[I 01:00:24.277 NotebookApp] Saving file at /static/js/tables.js
+[I 01:00:28.052 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 01:01:16.114 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:01:39.946 NotebookApp] Kernel interrupted: 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 01:03:15.642 NotebookApp] Saving file at /value_getter.ipynb
+[W 01:05:13.818 NotebookApp] WebSocket ping timeout after 119793 ms.
+[I 01:05:18.824 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 01:15:08.524 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 01:15:08.531 NotebookApp] Restoring connection for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 01:43:46.527 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:44:31.332 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:44:49.628 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:45:15.792 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:59:46.694 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:00:18.862 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:01:15.925 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:03:16.110 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:04:26.150 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:04:30.567 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:05:15.133 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:06:17.914 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:07:04.002 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:07:15.667 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:07:38.150 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:07:50.002 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:09:16.833 NotebookApp] Saving file at /value_getter.ipynb
+[W 02:17:08.533 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 02:17:13.539 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 04:13:09.396 NotebookApp] Adapting to protocol v5.1 for kernel 93c171dc-11d0-4b01-813b-efecd23558ba
+[I 04:13:09.404 NotebookApp] Restoring connection for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[W 04:14:39.406 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 04:14:44.411 NotebookApp] Starting buffering for 93c171dc-11d0-4b01-813b-efecd23558ba:91824f06af2148af9ad1d2bb67325f2a
+[I 20:43:01.195 NotebookApp] Kernel shutdown: 93c171dc-11d0-4b01-813b-efecd23558ba
+[W 20:47:14.692 NotebookApp] 404 DELETE /api/sessions/fb3116c7-60e7-407c-bf68-7e0ec21d6885 (192.168.0.109): Session not found: session_id='fb3116c7-60e7-407c-bf68-7e0ec21d6885'
+[W 20:47:14.694 NotebookApp] Session not found: session_id='fb3116c7-60e7-407c-bf68-7e0ec21d6885'
+[W 20:47:14.698 NotebookApp] 404 DELETE /api/sessions/fb3116c7-60e7-407c-bf68-7e0ec21d6885 (192.168.0.109) 13.43ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[I 20:47:15.604 NotebookApp] Kernel started: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 20:47:22.021 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 20:47:40.449 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:49:05.507 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:53:48.098 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:55:05.091 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:55:06.760 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:55:50.567 NotebookApp] Saving file at /static/js/tables.js
+[I 20:57:04.348 NotebookApp] Saving file at /value_getter.ipynb
+[I 20:59:20.826 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 20:59:57.760 NotebookApp] Saving file at /static/js/tables.js
+[I 21:00:07.628 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:00:42.199 NotebookApp] Saving file at /static/js/tables.js
+[I 21:00:52.051 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:01:05.357 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:01:29.703 NotebookApp] Saving file at /static/js/tables.js
+[I 21:01:49.619 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:02:43.055 NotebookApp] Saving file at /templates/view.html
+[I 21:02:47.417 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:03:05.438 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:03:15.627 NotebookApp] Saving file at /templates/view.html
+[I 21:03:57.575 NotebookApp] Saving file at /static/js/tables.js
+[I 21:04:02.546 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:04:07.796 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:05:10.308 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:07:05.538 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:08:57.654 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:09:05.380 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:11:05.292 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:12:24.533 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:12:32.716 NotebookApp] Saving file at /static/js/tables.js
+[I 21:13:05.717 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:13:51.719 NotebookApp] Saving file at /static/js/tables.js
+[I 21:14:08.510 NotebookApp] Saving file at /static/js/tables.js
+[I 21:14:12.585 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:15:05.761 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:17:18.033 NotebookApp] Saving file at /static/js/tables.js
+[I 21:17:21.690 NotebookApp] Saving file at /static/js/tables.js
+[I 21:17:39.085 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:19:00.187 NotebookApp] Saving file at /static/js/tables.js
+[I 21:19:05.661 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:19:06.011 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:19:33.257 NotebookApp] Saving file at /static/js/tables.js
+[I 21:20:09.072 NotebookApp] Saving file at /static/js/tables.js
+[I 21:20:13.565 NotebookApp] Saving file at /static/js/tables.js
+[I 21:20:32.063 NotebookApp] Saving file at /static/js/tables.js
+[I 21:20:48.386 NotebookApp] Saving file at /static/js/tables.js
+[I 21:21:06.698 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:28:21.590 NotebookApp] Saving file at /static/js/tables.js
+[I 21:29:06.136 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:30:18.373 NotebookApp] Saving file at /static/js/tables.js
+[I 21:30:41.921 NotebookApp] Saving file at /static/js/tables.js
+[I 21:31:01.756 NotebookApp] Saving file at /static/js/tables.js
+[I 21:31:05.808 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:31:15.162 NotebookApp] Saving file at /static/js/tables.js
+[I 21:31:35.832 NotebookApp] Saving file at /static/js/tables.js
+[I 21:33:05.842 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:33:19.264 NotebookApp] Saving file at /static/js/tables.js
+[I 21:33:39.903 NotebookApp] Saving file at /static/js/tables.js
+[I 21:34:44.304 NotebookApp] Saving file at /static/js/tables.js
+[I 21:35:05.717 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:43:28.191 NotebookApp] Saving file at /static/js/tables.js
+[I 21:44:09.256 NotebookApp] Saving file at /static/js/tables.js
+[I 21:45:05.899 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:46:51.979 NotebookApp] Saving file at /static/js/tables.js
+[I 21:48:11.747 NotebookApp] Saving file at /static/js/tables.js
+[I 21:49:05.891 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:49:47.502 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:49:48.400 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:51:02.073 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:51:06.259 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:51:10.583 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:51:12.680 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:52:10.024 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:53:06.216 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:53:09.382 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:53:22.883 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:55:07.662 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:17:06.734 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:18:42.087 NotebookApp] Saving file at /templates/view.html
+[I 22:19:10.649 NotebookApp] Saving file at /static/js/tables.js
+[I 22:20:46.180 NotebookApp] Saving file at /static/js/tables.js
+[I 22:21:08.200 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:21:26.223 NotebookApp] Saving file at /static/js/tables.js
+[I 22:23:08.790 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:24:59.154 NotebookApp] Saving file at /static/js/tables.js
+[I 22:25:35.573 NotebookApp] Saving file at /static/js/tables.js
+[I 22:25:55.240 NotebookApp] Saving file at /static/js/tables.js
+[I 22:26:14.402 NotebookApp] Saving file at /static/js/tables.js
+[I 22:26:42.047 NotebookApp] Saving file at /templates/view.html
+[I 22:27:11.270 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:29:02.627 NotebookApp] Saving file at /static/js/tables.js
+[I 22:31:11.523 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:33:11.523 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:33:39.354 NotebookApp] Saving file at /templates/view.html
+[I 22:34:00.358 NotebookApp] Saving file at /static/js/tables.js
+[I 22:34:26.344 NotebookApp] Saving file at /static/js/tables.js
+[I 22:35:01.636 NotebookApp] Saving file at /static/js/tables.js
+[I 22:35:13.462 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:35:25.393 NotebookApp] Saving file at /templates/view.html
+[I 22:35:40.323 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 22:36:18.446 NotebookApp] Saving file at /static/js/tables.js
+[I 22:36:54.793 NotebookApp] Saving file at /static/js/tables.js
+[I 22:37:07.821 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:37:14.467 NotebookApp] Saving file at /static/js/tables.js
+[I 22:37:32.987 NotebookApp] Saving file at /static/js/tables.js
+[I 22:37:45.415 NotebookApp] Saving file at /static/js/tables.js
+[I 22:39:09.716 NotebookApp] Saving file at /value_getter.ipynb
+[W 23:07:52.035 NotebookApp] WebSocket ping timeout after 119878 ms.
+[I 23:07:57.042 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 00:15:05.686 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:15:05.693 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 00:21:45.755 NotebookApp] Saving file at /static/js/tables.js
+[I 00:21:57.030 NotebookApp] Saving file at /static/js/tables.js
+[I 00:22:19.192 NotebookApp] Saving file at /static/js/tables.js
+[I 00:22:56.809 NotebookApp] Saving file at /static/js/tables.js
+[I 00:23:12.478 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:25:12.869 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:29:11.331 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:29:19.767 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:29:33.334 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:30:13.811 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:30:20.566 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:30:27.690 NotebookApp] Saving file at /value_getter.ipynb
+[W 00:33:35.695 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 00:33:40.701 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 00:55:50.761 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:55:51.858 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:55:51.863 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 00:56:00.342 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:56:08.639 NotebookApp] Saving file at /static/js/tables.js
+[I 00:56:16.436 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:57:52.640 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:58:40.035 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:58:41.224 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:59:26.102 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:59:38.663 NotebookApp] Saving file at /static/js/tables.js
+[I 01:00:04.464 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:09:15.159 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:09:37.613 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:09:50.147 NotebookApp] Saving file at /static/js/tables.js
+[I 01:10:24.257 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:10:24.587 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:11:15.666 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:11:16.098 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:12:35.332 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:13:35.551 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:13:35.923 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:14:10.639 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:14:17.941 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:16:45.357 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:20:25.449 NotebookApp] Saving file at /templates/view.html
+[I 01:20:32.800 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:20:54.951 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:23:52.155 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:25:04.802 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:27:37.319 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:28:48.403 NotebookApp] Saving file at /static/js/tables.js
+[I 01:29:10.645 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:29:15.771 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:30:38.874 NotebookApp] Saving file at /static/js/tables.js
+[I 01:33:34.548 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:35:16.829 NotebookApp] Saving file at /static/js/tables.js
+[I 01:35:37.707 NotebookApp] Saving file at /static/js/tables.js
+[I 01:36:12.011 NotebookApp] Saving file at /static/js/tables.js
+[I 01:37:36.957 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:38:51.007 NotebookApp] Saving file at /static/js/tables.js
+[I 01:39:40.791 NotebookApp] Saving file at /static/js/tables.js
+[I 01:40:16.941 NotebookApp] Saving file at /static/js/tables.js
+[I 01:40:55.009 NotebookApp] Saving file at /static/js/tables.js
+[I 01:41:37.856 NotebookApp] Saving file at /static/js/tables.js
+[I 01:41:49.082 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:42:25.531 NotebookApp] Saving file at /static/js/tables.js
+[I 01:42:45.805 NotebookApp] Saving file at /static/js/tables.js
+[I 01:43:56.495 NotebookApp] Saving file at /static/js/tables.js
+[I 01:44:25.401 NotebookApp] Saving file at /static/js/tables.js
+[I 01:46:03.570 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:50:42.934 NotebookApp] Saving file at /static/js/tables.js
+[I 01:54:24.667 NotebookApp] Saving file at /value_getter.ipynb
+[W 02:01:21.864 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 02:01:26.871 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 02:04:04.455 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:04:04.463 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[W 02:28:04.464 NotebookApp] WebSocket ping timeout after 119987 ms.
+[I 02:28:09.470 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 03:15:11.518 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 03:15:11.524 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[W 03:35:41.527 NotebookApp] WebSocket ping timeout after 119984 ms.
+[I 03:35:46.532 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 03:59:47.618 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 03:59:47.627 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[W 04:14:47.630 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 04:14:52.637 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 15:50:58.168 NotebookApp] Saving file at /static/js/tables.js
+[I 15:51:42.592 NotebookApp] Saving file at /static/js/tables.js
+[I 16:03:28.974 NotebookApp] Saving file at /static/js/tables.js
+[I 16:05:33.564 NotebookApp] Saving file at /static/js/tables.js
+[I 16:06:34.380 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 16:06:34.390 NotebookApp] Discarding 29 buffered messages for 6ad07b62-5e8b-4eb9-8394-b06077791cda:91824f06af2148af9ad1d2bb67325f2a
+[I 16:06:38.175 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 16:06:42.037 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 16:07:13.162 NotebookApp] Saving file at /value_getter.ipynb
+[I 16:07:52.123 NotebookApp] Saving file at /value_getter.ipynb
+[I 16:07:52.555 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 16:11:25.548 NotebookApp] Saving file at /value_getter.ipynb
+[I 16:11:30.848 NotebookApp] Saving file at /static/js/tables.js
+[I 16:15:34.286 NotebookApp] Saving file at /static/js/tables.js
+[I 16:18:55.110 NotebookApp] Saving file at /static/js/tables.js
+[I 16:19:31.705 NotebookApp] Saving file at /value_getter.ipynb
+[I 16:19:35.381 NotebookApp] Saving file at /static/js/tables.js
+[I 16:20:14.254 NotebookApp] Saving file at /static/js/tables.js
+[I 16:21:32.638 NotebookApp] Saving file at /static/style.css
+[I 16:23:25.865 NotebookApp] Saving file at /value_getter.ipynb
+[I 16:27:37.338 NotebookApp] Saving file at /value_getter.ipynb
+[W 17:28:34.390 NotebookApp] WebSocket ping timeout after 119933 ms.
+[I 17:28:39.398 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 18:11:25.141 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 18:11:25.148 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[W 18:13:55.150 NotebookApp] WebSocket ping timeout after 119835 ms.
+[I 18:14:00.156 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 18:14:30.778 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 18:14:30.785 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 18:18:32.702 NotebookApp] Saving file at /static/js/tables.js
+[I 18:18:37.140 NotebookApp] Saving file at /static/js/tables.js
+[I 18:19:29.934 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:25:20.183 NotebookApp] Saving file at /static/js/tables.js
+[I 18:27:32.851 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:29:08.512 NotebookApp] Saving file at /static/js/tables.js
+[I 18:30:15.139 NotebookApp] Saving file at /static/js/tables.js
+[W 18:33:00.786 NotebookApp] WebSocket ping timeout after 119903 ms.
+[I 18:33:05.793 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 19:19:03.766 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 19:19:03.773 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 19:19:24.090 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:19:42.192 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:26:44.686 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:67f35a52ae784f828867a8f29a248653
+[I 19:28:28.396 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 19:33:27.072 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:c2b608e6f1114cf3b829fc936bd6fdf0
+[I 03:07:25.573 NotebookApp] 302 GET / (192.168.0.101) 5.27ms
+[I 03:07:25.640 NotebookApp] 302 GET /tree? (192.168.0.101) 10.35ms
+[I 03:37:10.474 NotebookApp] 302 GET /notebooks/value_getter.ipynb (192.168.0.109) 8.43ms
+[I 03:37:19.072 NotebookApp] 302 GET /tree/static (192.168.0.109) 12.22ms
+[I 03:37:20.454 NotebookApp] 302 GET /edit/static/style.css (192.168.0.109) 9.95ms
+[I 03:37:21.628 NotebookApp] 302 GET /edit/getTable.py (192.168.0.109) 9.58ms
+[I 03:37:26.855 NotebookApp] 302 GET /edit/templates/view.html (192.168.0.109) 9.10ms
+[I 03:37:29.912 NotebookApp] 302 GET /edit/static/js/tables.js (192.168.0.109) 10.37ms
+[I 03:41:02.833 NotebookApp] 302 POST /login?next=%2Fedit%2Fstatic%2Fjs%2Ftables.js (192.168.0.109) 14.11ms
+[I 03:41:10.021 NotebookApp] 302 POST /login?next=%2Fedit%2Ftemplates%2Fview.html (192.168.0.109) 14.36ms
+[I 03:41:13.862 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fvalue_getter.ipynb (192.168.0.109) 13.66ms
+[I 03:41:18.780 NotebookApp] 302 POST /login?next=%2Fedit%2FgetTable.py (192.168.0.109) 15.76ms
+[I 03:41:23.124 NotebookApp] 302 POST /login?next=%2Fedit%2Fstatic%2Fstyle.css (192.168.0.109) 13.92ms
+[I 03:41:27.735 NotebookApp] 302 POST /login?next=%2Ftree%2Fstatic (192.168.0.109) 15.06ms
+[I 03:42:01.993 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 03:42:02.003 NotebookApp] Discarding 15 buffered messages for 6ad07b62-5e8b-4eb9-8394-b06077791cda:c2b608e6f1114cf3b829fc936bd6fdf0
+[I 03:47:56.094 NotebookApp] Saving file at /static/js/tables.js
+[I 03:48:43.204 NotebookApp] Saving file at /static/js/tables.js
+[I 03:51:57.440 NotebookApp] Saving file at /static/js/tables.js
+[I 04:00:52.579 NotebookApp] Saving file at /static/js/tables.js
+[I 04:07:03.583 NotebookApp] Saving file at /static/js/tables.js
+[I 04:12:41.942 NotebookApp] Saving file at /static/js/tables.js
+[I 04:14:55.421 NotebookApp] Saving file at /static/js/tables.js
+[W 04:16:32.003 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 04:16:37.008 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:f0d24cb4a8f9473688a555caef11388d
+[I 01:26:02.689 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:26:02.696 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:f0d24cb4a8f9473688a555caef11388d
+[I 01:26:02.698 NotebookApp] Replaying 12 buffered messages
+[I 01:26:05.033 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:f0d24cb4a8f9473688a555caef11388d
+[I 02:22:06.041 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:22:06.051 NotebookApp] Discarding 5 buffered messages for 6ad07b62-5e8b-4eb9-8394-b06077791cda:f0d24cb4a8f9473688a555caef11388d
+[I 02:23:13.095 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:23:54.969 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:24:06.404 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:24:43.570 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:25:43.937 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:25:58.158 NotebookApp] Saving file at /getTable.py
+[I 02:26:39.451 NotebookApp] Saving file at /refreshTable.py
+[I 02:28:08.784 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:28:18.508 NotebookApp] Saving file at /static/js/tables.js
+[I 02:28:52.178 NotebookApp] Saving file at /templates/view.html
+[I 02:29:37.220 NotebookApp] Saving file at /static/js/tables.js
+[I 02:30:10.824 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:30:11.350 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:30:27.605 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:30:46.101 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:30:47.804 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:32:32.654 NotebookApp] Saving file at /static/js/tables.js
+[I 02:32:49.758 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:34:17.033 NotebookApp] Saving file at /static/js/tables.js
+[I 02:34:50.628 NotebookApp] Saving file at /static/js/tables.js
+[I 02:35:09.882 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:35:21.967 NotebookApp] Saving file at /static/js/tables.js
+[I 02:35:33.731 NotebookApp] Saving file at /static/js/tables.js
+[I 02:36:51.035 NotebookApp] Saving file at /templates/view.html
+[I 02:37:31.186 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:41:10.433 NotebookApp] Saving file at /static/js/tables.js
+[I 02:41:37.524 NotebookApp] Saving file at /static/js/tables.js
+[I 02:42:12.090 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:42:25.490 NotebookApp] Saving file at /static/js/tables.js
+[I 02:47:51.678 NotebookApp] Saving file at /static/js/tables.js
+[I 02:48:43.145 NotebookApp] Saving file at /static/js/tables.js
+[I 02:49:14.896 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:53:54.781 NotebookApp] Saving file at /value_getter.ipynb
+[W 02:57:06.052 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 02:57:11.058 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 02:35:41.800 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:35:41.809 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 02:38:23.087 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:38:34.318 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:38:51.189 NotebookApp] Saving file at /refreshTable.py
+[I 02:38:55.537 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:41:37.035 NotebookApp] Saving file at /static/js/tables.js
+[I 02:41:49.647 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:41:53.889 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:41:55.396 NotebookApp] Saving file at /refreshTable.py
+[I 02:42:01.067 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:44:09.154 NotebookApp] Saving file at /refreshTable.py
+[I 02:44:50.061 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:44:58.730 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:45:28.052 NotebookApp] Kernel interrupted: 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 02:45:33.827 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:48:10.618 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:50:38.735 NotebookApp] Saving file at /static/js/tables.js
+[I 02:51:20.936 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:52:42.858 NotebookApp] Saving file at /static/js/tables.js
+[I 02:53:33.567 NotebookApp] Saving file at /static/js/tables.js
+[I 02:54:32.640 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:55:34.073 NotebookApp] Saving file at /static/js/tables.js
+[I 02:55:49.771 NotebookApp] Saving file at /static/js/tables.js
+[I 02:56:20.375 NotebookApp] Saving file at /static/js/tables.js
+[I 02:57:44.941 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:58:07.807 NotebookApp] Saving file at /static/js/tables.js
+[I 02:58:36.525 NotebookApp] Saving file at /static/js/tables.js
+[I 02:59:11.651 NotebookApp] Saving file at /static/js/tables.js
+[I 02:59:33.394 NotebookApp] Saving file at /static/js/tables.js
+[I 03:00:07.674 NotebookApp] Saving file at /static/js/tables.js
+[I 03:01:03.972 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:04:26.021 NotebookApp] Saving file at /static/js/tables.js
+[I 03:06:57.404 NotebookApp] Saving file at /static/js/tables.js
+[I 03:07:26.905 NotebookApp] Saving file at /static/js/tables.js
+[I 03:08:06.644 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:10:13.617 NotebookApp] Saving file at /static/js/tables.js
+[I 03:11:06.112 NotebookApp] Saving file at /static/js/tables.js
+[I 03:12:23.208 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:28:19.666 NotebookApp] Saving file at /static/js/tables.js
+[I 03:30:55.679 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:32:43.036 NotebookApp] Saving file at /static/js/tables.js
+[I 03:36:57.646 NotebookApp] Saving file at /value_getter.ipynb
+[I 03:36:59.760 NotebookApp] Saving file at /static/js/tables.js
+[I 03:42:27.798 NotebookApp] Saving file at /value_getter.ipynb
+[I 04:12:19.863 NotebookApp] Saving file at /static/js/tables.js
+[I 04:22:54.656 NotebookApp] Saving file at /static/js/tables.js
+[W 05:25:41.812 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 05:25:46.818 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 01:58:08.941 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:58:08.949 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[W 01:59:38.952 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 01:59:43.957 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 01:38:15.406 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 01:38:15.414 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 01:38:15.415 NotebookApp] Replaying 3 buffered messages
+[I 01:43:20.438 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:20:57.960 NotebookApp] Saving file at /value_getter.ipynb
+[W 03:57:15.418 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 03:57:20.424 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 21:23:04.340 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 21:23:04.347 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 21:23:04.348 NotebookApp] Replaying 14 buffered messages
+[I 21:25:26.190 NotebookApp] Saving file at /value_getter.ipynb
+[I 22:29:08.954 NotebookApp] Saving file at /value_getter.ipynb
+[W 23:47:34.349 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 23:47:39.356 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[I 00:31:55.356 NotebookApp] Adapting to protocol v5.1 for kernel 6ad07b62-5e8b-4eb9-8394-b06077791cda
+[I 00:31:55.363 NotebookApp] Restoring connection for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[W 01:45:55.364 NotebookApp] WebSocket ping timeout after 119838 ms.
+[I 01:46:00.372 NotebookApp] Starting buffering for 6ad07b62-5e8b-4eb9-8394-b06077791cda:ae290d04f84a4615907ed073b94c23dc
+[W 00:57:01.907 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 00:57:01.988 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 00:57:01.989 NotebookApp] 0 active kernels
+[I 00:57:01.990 NotebookApp] The Jupyter Notebook is running at:
+[I 00:57:01.990 NotebookApp] http://[all ip addresses on your system]:5555/?token=c71ffe18b426b18529b4ee6bd58c45dba0007b9242779573
+[I 00:57:01.991 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:57:01.993 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=c71ffe18b426b18529b4ee6bd58c45dba0007b9242779573
+[I 00:58:32.550 NotebookApp] Kernel started: f163b359-b863-4706-b002-018876dbbd34
+[W 00:58:33.395 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180501005659 (192.168.0.109) 102.32ms referer=http://192.168.0.7:5555/notebooks/value_getter.ipynb
+[I 00:59:44.243 NotebookApp] Adapting to protocol v5.1 for kernel f163b359-b863-4706-b002-018876dbbd34
+[I 01:01:45.750 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:05:49.203 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:10:28.250 NotebookApp] Saving file at /static/js/tables.js
+[I 01:11:00.856 NotebookApp] Saving file at /static/js/tables.js
+[I 01:11:49.760 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:12:16.241 NotebookApp] Saving file at /static/js/tables.js
+[I 01:13:52.282 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:19:43.469 NotebookApp] Saving file at /static/js/tables.js
+[I 01:19:51.212 NotebookApp] Starting buffering for f163b359-b863-4706-b002-018876dbbd34:c41febaaea40477cad49a2a07a31a348
+[I 01:20:17.554 NotebookApp] Saving file at /static/js/tables.js
+[I 01:20:30.552 NotebookApp] Saving file at /static/js/tables.js
+[I 01:20:57.808 NotebookApp] Saving file at /static/js/tables.js
+[I 01:25:59.934 NotebookApp] Adapting to protocol v5.1 for kernel f163b359-b863-4706-b002-018876dbbd34
+[I 01:25:59.945 NotebookApp] Discarding 12 buffered messages for f163b359-b863-4706-b002-018876dbbd34:c41febaaea40477cad49a2a07a31a348
+[W 01:33:29.944 NotebookApp] WebSocket ping timeout after 119979 ms.
+[I 01:33:34.956 NotebookApp] Starting buffering for f163b359-b863-4706-b002-018876dbbd34:fc8b8a6b3b7c426da1848bfa87bfa05d
+[I 01:02:14.421 NotebookApp] Adapting to protocol v5.1 for kernel f163b359-b863-4706-b002-018876dbbd34
+[I 01:02:14.428 NotebookApp] Restoring connection for f163b359-b863-4706-b002-018876dbbd34:fc8b8a6b3b7c426da1848bfa87bfa05d
+[I 02:10:10.519 NotebookApp] Saving file at /static/js/tables.js
+[I 02:10:42.778 NotebookApp] Saving file at /static/js/tables.js
+[W 02:12:44.432 NotebookApp] WebSocket ping timeout after 119904 ms.
+[I 02:12:49.438 NotebookApp] Starting buffering for f163b359-b863-4706-b002-018876dbbd34:fc8b8a6b3b7c426da1848bfa87bfa05d
+[W 02:46:15.481 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 02:46:15.576 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 02:46:15.577 NotebookApp] 0 active kernels
+[I 02:46:15.577 NotebookApp] The Jupyter Notebook is running at:
+[I 02:46:15.578 NotebookApp] http://[all ip addresses on your system]:5555/?token=d01f4a165d05eef0ba9e3406cc5c0c6ed53dafc0a39f2181
+[I 02:46:15.578 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:46:15.586 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=d01f4a165d05eef0ba9e3406cc5c0c6ed53dafc0a39f2181
+[I 02:49:09.420 NotebookApp] Saving file at /static/js/tables.js
+[W 02:49:38.301 NotebookApp] 404 GET /api/kernels/f163b359-b863-4706-b002-018876dbbd34/channels?session_id=fc8b8a6b3b7c426da1848bfa87bfa05d (192.168.0.109): Kernel does not exist: f163b359-b863-4706-b002-018876dbbd34
+[W 02:49:38.662 NotebookApp] 404 GET /api/kernels/f163b359-b863-4706-b002-018876dbbd34/channels?session_id=fc8b8a6b3b7c426da1848bfa87bfa05d (192.168.0.109) 446.92ms referer=None
+[I 02:50:17.373 NotebookApp] Kernel started: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 02:50:23.253 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 02:52:22.519 NotebookApp] Saving file at /value_getter.ipynb
+[I 02:53:56.045 NotebookApp] Saving file at /static/js/tables.js
+[I 02:54:22.185 NotebookApp] Saving file at /value_getter.ipynb
+[W 02:56:53.263 NotebookApp] WebSocket ping timeout after 119888 ms.
+[I 02:56:58.275 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:45690a77d21c47fb83779f57a02c82a7
+[I 00:27:50.522 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:27:50.533 NotebookApp] Discarding 8 buffered messages for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:45690a77d21c47fb83779f57a02c82a7
+[I 00:27:51.099 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:e3b40da49f2c4fbd89a069b56a72f06f
+[I 00:28:00.090 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:31:30.639 NotebookApp] Saving file at /static/js/tables.js
+[I 00:32:27.299 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:32:27.823 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:32:58.221 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:32:58.584 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:33:43.679 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:33:44.059 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:34:04.483 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:35:19.459 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:35:20.052 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:36:03.345 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:40:13.195 NotebookApp] Saving file at /static/js/tables.js
+[I 00:42:03.974 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:42:39.021 NotebookApp] Saving file at /static/js/tables.js
+[I 00:44:03.251 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:49:28.342 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:49:29.820 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:50:03.024 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:50:49.729 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:50:54.430 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:52:03.277 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:53:44.351 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:53:58.921 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:54:03.678 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:54:40.901 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:54:41.264 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:55:36.209 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 00:55:36.419 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:55:46.506 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:56:03.220 NotebookApp] Saving file at /value_getter.ipynb
+[I 00:56:16.933 NotebookApp] Saving file at /static/js/tables.js
+[I 00:56:53.442 NotebookApp] Saving file at /static/js/tables.js
+[I 00:58:04.144 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:00:04.320 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:06:00.009 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 01:06:03.489 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:08:03.934 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:10:03.045 NotebookApp] Saving file at /value_getter.ipynb
+[I 01:12:03.504 NotebookApp] Saving file at /value_getter.ipynb
+[W 01:18:00.099 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 01:18:05.106 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 01:30:09.118 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 01:30:09.125 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[W 02:22:39.127 NotebookApp] WebSocket ping timeout after 119891 ms.
+[I 02:22:44.133 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 02:52:33.498 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 02:52:33.505 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[W 03:44:33.507 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 03:44:38.512 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 13:08:43.992 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 13:08:43.999 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[W 13:10:14.003 NotebookApp] WebSocket ping timeout after 90004 ms.
+[I 13:10:19.009 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 13:10:41.119 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 13:10:41.127 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 13:13:52.510 NotebookApp] Saving file at /value_getter.ipynb
+[W 13:25:41.130 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 13:25:46.136 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:30d21a452b374b3ea6a71fce684e84c3
+[I 21:41:04.686 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 21:43:06.128 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:43:10.631 NotebookApp] Kernel interrupted: b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 21:45:07.337 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:47:06.029 NotebookApp] Saving file at /value_getter.ipynb
+[I 21:49:05.637 NotebookApp] Saving file at /value_getter.ipynb
+[W 22:46:34.697 NotebookApp] WebSocket ping timeout after 119956 ms.
+[I 22:46:39.703 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 23:35:33.845 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 23:35:33.852 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 01:32:03.854 NotebookApp] WebSocket ping timeout after 119974 ms.
+[I 01:32:08.859 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 14:07:26.850 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 14:07:26.857 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 14:58:56.858 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 14:59:01.866 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 01:12:24.022 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 01:12:24.029 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 03:04:24.031 NotebookApp] WebSocket ping timeout after 119985 ms.
+[I 03:04:29.037 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 16:09:40.331 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 16:09:40.338 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 16:19:40.340 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 16:19:45.346 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 18:17:43.360 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 18:17:43.367 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 18:33:43.369 NotebookApp] WebSocket ping timeout after 119861 ms.
+[I 18:33:48.375 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[I 19:42:58.219 NotebookApp] Adapting to protocol v5.1 for kernel b58c6c01-3aa3-46c7-8d37-f1337a3cba94
+[I 19:42:58.226 NotebookApp] Restoring connection for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 19:45:58.229 NotebookApp] WebSocket ping timeout after 119963 ms.
+[I 19:46:03.235 NotebookApp] Starting buffering for b58c6c01-3aa3-46c7-8d37-f1337a3cba94:022eeb86d4fc436b80787ebb342105f5
+[W 01:38:57.199 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 01:38:57.294 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 01:38:57.295 NotebookApp] 0 active kernels
+[I 01:38:57.296 NotebookApp] The Jupyter Notebook is running at:
+[I 01:38:57.296 NotebookApp] http://[all ip addresses on your system]:5555/?token=209378ab6435bef488caf3efd42e9c87106f5f93432eeb49
+[I 01:38:57.297 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:38:57.300 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=209378ab6435bef488caf3efd42e9c87106f5f93432eeb49
+[I 01:39:58.019 NotebookApp] Kernel started: 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 01:40:04.535 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 01:42:01.252 NotebookApp] Saving file at /value_getter.ipynb
+[W 01:44:34.549 NotebookApp] WebSocket ping timeout after 119982 ms.
+[I 01:44:39.561 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:94600b3caf29434888bf20e07f43852e
+[I 02:42:01.967 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 02:42:01.974 NotebookApp] Restoring connection for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:94600b3caf29434888bf20e07f43852e
+[W 02:45:01.976 NotebookApp] WebSocket ping timeout after 119915 ms.
+[I 02:45:06.983 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:94600b3caf29434888bf20e07f43852e
+[I 02:49:03.955 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 02:49:03.962 NotebookApp] Restoring connection for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:94600b3caf29434888bf20e07f43852e
+[W 02:50:33.966 NotebookApp] WebSocket ping timeout after 90004 ms.
+[I 02:50:38.972 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:94600b3caf29434888bf20e07f43852e
+[I 03:15:20.771 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[W 03:24:20.781 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 03:24:25.786 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:215a1770d952443085e56b3dfd79400b
+[I 05:12:27.336 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 05:12:27.345 NotebookApp] Restoring connection for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:215a1770d952443085e56b3dfd79400b
+[W 05:51:27.348 NotebookApp] WebSocket ping timeout after 117023 ms.
+[I 05:51:32.355 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:215a1770d952443085e56b3dfd79400b
+[I 05:55:40.938 NotebookApp] Adapting to protocol v5.1 for kernel 8c47fe5e-ffc0-4f85-848e-389651fca8ac
+[I 05:55:40.943 NotebookApp] Restoring connection for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:215a1770d952443085e56b3dfd79400b
+[W 06:22:40.945 NotebookApp] WebSocket ping timeout after 119967 ms.
+[I 06:22:45.952 NotebookApp] Starting buffering for 8c47fe5e-ffc0-4f85-848e-389651fca8ac:215a1770d952443085e56b3dfd79400b
+[W 02:29:50.293 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:29:50.711 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 437.04ms referer=None
+[W 02:31:14.930 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:31:14.947 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 35.70ms referer=None
+[W 02:31:23.459 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:31:23.476 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 35.67ms referer=None
+[W 02:31:40.528 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:31:40.545 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 35.22ms referer=None
+[W 02:32:15.970 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:32:15.991 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 45.57ms referer=None
+[W 02:33:20.777 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:33:20.794 NotebookApp] 403 GET /api/kernels/8c47fe5e-ffc0-4f85-848e-389651fca8ac/channels?session_id=215a1770d952443085e56b3dfd79400b (192.168.0.109) 35.50ms referer=None
+[W 18:23:19.694 NotebookApp] Forbidden
+[W 18:23:19.698 NotebookApp] 403 GET /api/config/tree?_=1527359001116 (192.168.0.109) 10.63ms referer=http://192.168.0.7:5555/tree
+[W 18:23:19.711 NotebookApp] Forbidden
+[W 18:23:19.715 NotebookApp] 403 GET /api/config/common?_=1527359001117 (192.168.0.109) 9.78ms referer=http://192.168.0.7:5555/tree
+[W 18:23:19.918 NotebookApp] Forbidden
+[W 18:23:19.922 NotebookApp] 403 GET /api/terminals?_=1527359001118 (192.168.0.109) 9.52ms referer=http://192.168.0.7:5555/tree
+[W 18:23:19.935 NotebookApp] Forbidden
+[W 18:23:19.938 NotebookApp] 403 GET /api/sessions?_=1527359001119 (192.168.0.109) 9.94ms referer=http://192.168.0.7:5555/tree
+[W 18:23:19.950 NotebookApp] Forbidden
+[W 18:23:19.954 NotebookApp] 403 GET /api/terminals?_=1527359001120 (192.168.0.109) 9.28ms referer=http://192.168.0.7:5555/tree
+[W 18:23:19.970 NotebookApp] Forbidden
+[W 18:23:19.973 NotebookApp] 403 GET /api/kernelspecs (192.168.0.109) 9.82ms referer=http://192.168.0.7:5555/tree
+[W 18:24:20.885 NotebookApp] Forbidden
+[W 18:24:20.889 NotebookApp] 403 GET /api/terminals?_=1527359001122 (192.168.0.109) 9.66ms referer=http://192.168.0.7:5555/tree
+[W 18:24:20.902 NotebookApp] Forbidden
+[W 18:24:20.906 NotebookApp] 403 GET /api/sessions?_=1527359001121 (192.168.0.109) 9.69ms referer=http://192.168.0.7:5555/tree
+[W 18:25:20.767 NotebookApp] Forbidden
+[W 18:25:20.771 NotebookApp] 403 GET /api/sessions?_=1527359001123 (192.168.0.109) 11.13ms referer=http://192.168.0.7:5555/tree
+[W 18:25:20.787 NotebookApp] Forbidden
+[W 18:25:20.791 NotebookApp] 403 GET /api/terminals?_=1527359001124 (192.168.0.109) 13.39ms referer=http://192.168.0.7:5555/tree
+[W 18:26:20.704 NotebookApp] Forbidden
+[W 18:26:20.708 NotebookApp] 403 GET /api/sessions?_=1527359001125 (192.168.0.109) 10.19ms referer=http://192.168.0.7:5555/tree
+[W 18:26:20.719 NotebookApp] Forbidden
+[W 18:26:20.723 NotebookApp] 403 GET /api/terminals?_=1527359001126 (192.168.0.109) 9.39ms referer=http://192.168.0.7:5555/tree
+[W 18:27:20.670 NotebookApp] Forbidden
+[W 18:27:20.675 NotebookApp] 403 GET /api/sessions?_=1527359001127 (192.168.0.109) 10.94ms referer=http://192.168.0.7:5555/tree
+[W 18:27:20.687 NotebookApp] Forbidden
+[W 18:27:20.691 NotebookApp] 403 GET /api/terminals?_=1527359001128 (192.168.0.109) 9.43ms referer=http://192.168.0.7:5555/tree
+[W 18:28:20.670 NotebookApp] Forbidden
+[W 18:28:20.674 NotebookApp] 403 GET /api/terminals?_=1527359001130 (192.168.0.109) 9.49ms referer=http://192.168.0.7:5555/tree
+[W 18:28:20.688 NotebookApp] Forbidden
+[W 18:28:20.692 NotebookApp] 403 GET /api/sessions?_=1527359001129 (192.168.0.109) 10.28ms referer=http://192.168.0.7:5555/tree
+[W 18:29:20.720 NotebookApp] Forbidden
+[W 18:29:20.724 NotebookApp] 403 GET /api/sessions?_=1527359001131 (192.168.0.109) 10.12ms referer=http://192.168.0.7:5555/tree
+[W 18:29:20.736 NotebookApp] Forbidden
+[W 18:29:20.740 NotebookApp] 403 GET /api/terminals?_=1527359001132 (192.168.0.109) 9.38ms referer=http://192.168.0.7:5555/tree
+[W 18:30:20.735 NotebookApp] Forbidden
+[W 18:30:20.739 NotebookApp] 403 GET /api/sessions?_=1527359001133 (192.168.0.109) 10.05ms referer=http://192.168.0.7:5555/tree
+[W 18:30:20.752 NotebookApp] Forbidden
+[W 18:30:20.756 NotebookApp] 403 GET /api/terminals?_=1527359001134 (192.168.0.109) 9.63ms referer=http://192.168.0.7:5555/tree
+[W 18:31:20.729 NotebookApp] Forbidden
+[W 18:31:20.734 NotebookApp] 403 GET /api/sessions?_=1527359001135 (192.168.0.109) 10.14ms referer=http://192.168.0.7:5555/tree
+[W 18:31:20.746 NotebookApp] Forbidden
+[W 18:31:20.749 NotebookApp] 403 GET /api/terminals?_=1527359001136 (192.168.0.109) 10.43ms referer=http://192.168.0.7:5555/tree
+[W 18:32:20.666 NotebookApp] Forbidden
+[W 18:32:20.670 NotebookApp] 403 GET /api/terminals?_=1527359001138 (192.168.0.109) 9.64ms referer=http://192.168.0.7:5555/tree
+[W 18:32:20.680 NotebookApp] Forbidden
+[W 18:32:20.684 NotebookApp] 403 GET /api/sessions?_=1527359001137 (192.168.0.109) 9.86ms referer=http://192.168.0.7:5555/tree
+[W 18:33:21.055 NotebookApp] Forbidden
+[W 18:33:21.059 NotebookApp] 403 GET /api/sessions?_=1527359001139 (192.168.0.109) 10.12ms referer=http://192.168.0.7:5555/tree
+[W 18:33:21.076 NotebookApp] Forbidden
+[W 18:33:21.080 NotebookApp] 403 GET /api/terminals?_=1527359001140 (192.168.0.109) 9.63ms referer=http://192.168.0.7:5555/tree
+[W 18:34:20.864 NotebookApp] Forbidden
+[W 18:34:20.868 NotebookApp] 403 GET /api/sessions?_=1527359001141 (192.168.0.109) 10.59ms referer=http://192.168.0.7:5555/tree
+[W 18:34:20.878 NotebookApp] Forbidden
+[W 18:34:20.882 NotebookApp] 403 GET /api/terminals?_=1527359001142 (192.168.0.109) 9.41ms referer=http://192.168.0.7:5555/tree
+[W 18:35:20.691 NotebookApp] Forbidden
+[W 18:35:20.696 NotebookApp] 403 GET /api/sessions?_=1527359001143 (192.168.0.109) 10.22ms referer=http://192.168.0.7:5555/tree
+[W 18:35:20.708 NotebookApp] Forbidden
+[W 18:35:20.712 NotebookApp] 403 GET /api/terminals?_=1527359001144 (192.168.0.109) 10.24ms referer=http://192.168.0.7:5555/tree
+[W 18:36:20.779 NotebookApp] Forbidden
+[W 18:36:20.784 NotebookApp] 403 GET /api/terminals?_=1527359001146 (192.168.0.109) 9.72ms referer=http://192.168.0.7:5555/tree
+[W 18:36:20.797 NotebookApp] Forbidden
+[W 18:36:20.801 NotebookApp] 403 GET /api/sessions?_=1527359001145 (192.168.0.109) 10.02ms referer=http://192.168.0.7:5555/tree
+[W 18:37:20.881 NotebookApp] Forbidden
+[W 18:37:20.885 NotebookApp] 403 GET /api/sessions?_=1527359001147 (192.168.0.109) 10.85ms referer=http://192.168.0.7:5555/tree
+[W 18:37:20.898 NotebookApp] Forbidden
+[W 18:37:20.901 NotebookApp] 403 GET /api/terminals?_=1527359001148 (192.168.0.109) 9.59ms referer=http://192.168.0.7:5555/tree
+[W 18:38:20.887 NotebookApp] Forbidden
+[W 18:38:20.891 NotebookApp] 403 GET /api/terminals?_=1527359001150 (192.168.0.109) 9.58ms referer=http://192.168.0.7:5555/tree
+[W 18:38:20.906 NotebookApp] Forbidden
+[W 18:38:20.910 NotebookApp] 403 GET /api/sessions?_=1527359001149 (192.168.0.109) 11.23ms referer=http://192.168.0.7:5555/tree
+[W 18:39:21.001 NotebookApp] Forbidden
+[W 18:39:21.005 NotebookApp] 403 GET /api/sessions?_=1527359001151 (192.168.0.109) 10.15ms referer=http://192.168.0.7:5555/tree
+[W 18:39:21.022 NotebookApp] Forbidden
+[W 18:39:21.026 NotebookApp] 403 GET /api/terminals?_=1527359001152 (192.168.0.109) 9.50ms referer=http://192.168.0.7:5555/tree
+[W 18:40:20.730 NotebookApp] Forbidden
+[W 18:40:20.735 NotebookApp] 403 GET /api/sessions?_=1527359001153 (192.168.0.109) 11.15ms referer=http://192.168.0.7:5555/tree
+[W 18:40:20.747 NotebookApp] Forbidden
+[W 18:40:20.750 NotebookApp] 403 GET /api/terminals?_=1527359001154 (192.168.0.109) 9.41ms referer=http://192.168.0.7:5555/tree
+[W 18:41:20.702 NotebookApp] Forbidden
+[W 18:41:20.707 NotebookApp] 403 GET /api/sessions?_=1527359001155 (192.168.0.109) 11.18ms referer=http://192.168.0.7:5555/tree
+[W 18:41:20.717 NotebookApp] Forbidden
+[W 18:41:20.721 NotebookApp] 403 GET /api/terminals?_=1527359001156 (192.168.0.109) 9.43ms referer=http://192.168.0.7:5555/tree
+[W 18:42:20.916 NotebookApp] Forbidden
+[W 18:42:20.920 NotebookApp] 403 GET /api/sessions?_=1527359001157 (192.168.0.109) 10.15ms referer=http://192.168.0.7:5555/tree
+[W 18:42:20.933 NotebookApp] Forbidden
+[W 18:42:20.937 NotebookApp] 403 GET /api/terminals?_=1527359001158 (192.168.0.109) 9.82ms referer=http://192.168.0.7:5555/tree
+[W 18:43:20.928 NotebookApp] Forbidden
+[W 18:43:20.932 NotebookApp] 403 GET /api/sessions?_=1527359001159 (192.168.0.109) 10.00ms referer=http://192.168.0.7:5555/tree
+[W 18:43:20.945 NotebookApp] Forbidden
+[W 18:43:20.949 NotebookApp] 403 GET /api/terminals?_=1527359001160 (192.168.0.109) 9.38ms referer=http://192.168.0.7:5555/tree
+[W 18:44:20.943 NotebookApp] Forbidden
+[W 18:44:20.947 NotebookApp] 403 GET /api/sessions?_=1527359001161 (192.168.0.109) 10.13ms referer=http://192.168.0.7:5555/tree
+[W 18:44:20.964 NotebookApp] Forbidden
+[W 18:44:20.968 NotebookApp] 403 GET /api/terminals?_=1527359001162 (192.168.0.109) 10.61ms referer=http://192.168.0.7:5555/tree
+[W 18:45:20.662 NotebookApp] Forbidden
+[W 18:45:20.666 NotebookApp] 403 GET /api/terminals?_=1527359001164 (192.168.0.109) 9.78ms referer=http://192.168.0.7:5555/tree
+[W 18:45:20.677 NotebookApp] Forbidden
+[W 18:45:20.681 NotebookApp] 403 GET /api/sessions?_=1527359001163 (192.168.0.109) 10.41ms referer=http://192.168.0.7:5555/tree
+[W 18:46:20.895 NotebookApp] Forbidden
+[W 18:46:20.899 NotebookApp] 403 GET /api/sessions?_=1527359001165 (192.168.0.109) 10.61ms referer=http://192.168.0.7:5555/tree
+[W 18:46:20.915 NotebookApp] Forbidden
+[W 18:46:20.918 NotebookApp] 403 GET /api/terminals?_=1527359001166 (192.168.0.109) 13.16ms referer=http://192.168.0.7:5555/tree
+[W 18:47:20.857 NotebookApp] Forbidden
+[W 18:47:20.861 NotebookApp] 403 GET /api/terminals?_=1527359001168 (192.168.0.109) 10.15ms referer=http://192.168.0.7:5555/tree
+[W 18:47:20.875 NotebookApp] Forbidden
+[W 18:47:20.878 NotebookApp] 403 GET /api/sessions?_=1527359001167 (192.168.0.109) 10.05ms referer=http://192.168.0.7:5555/tree
+[W 18:48:20.964 NotebookApp] Forbidden
+[W 18:48:20.968 NotebookApp] 403 GET /api/sessions?_=1527359001169 (192.168.0.109) 10.51ms referer=http://192.168.0.7:5555/tree
+[W 18:48:20.980 NotebookApp] Forbidden
+[W 18:48:20.984 NotebookApp] 403 GET /api/terminals?_=1527359001170 (192.168.0.109) 9.35ms referer=http://192.168.0.7:5555/tree
+[W 18:49:20.679 NotebookApp] Forbidden
+[W 18:49:20.683 NotebookApp] 403 GET /api/sessions?_=1527359001171 (192.168.0.109) 10.11ms referer=http://192.168.0.7:5555/tree
+[W 18:49:20.696 NotebookApp] Forbidden
+[W 18:49:20.700 NotebookApp] 403 GET /api/terminals?_=1527359001172 (192.168.0.109) 9.34ms referer=http://192.168.0.7:5555/tree
+[W 18:50:20.676 NotebookApp] Forbidden
+[W 18:50:20.680 NotebookApp] 403 GET /api/sessions?_=1527359001173 (192.168.0.109) 10.16ms referer=http://192.168.0.7:5555/tree
+[W 18:50:20.694 NotebookApp] Forbidden
+[W 18:50:20.698 NotebookApp] 403 GET /api/terminals?_=1527359001174 (192.168.0.109) 9.39ms referer=http://192.168.0.7:5555/tree
+[W 18:51:20.706 NotebookApp] Forbidden
+[W 18:51:20.710 NotebookApp] 403 GET /api/sessions?_=1527359001175 (192.168.0.109) 10.09ms referer=http://192.168.0.7:5555/tree
+[W 18:51:20.724 NotebookApp] Forbidden
+[W 18:51:20.727 NotebookApp] 403 GET /api/terminals?_=1527359001176 (192.168.0.109) 9.64ms referer=http://192.168.0.7:5555/tree
+[W 18:52:20.694 NotebookApp] Forbidden
+[W 18:52:20.698 NotebookApp] 403 GET /api/sessions?_=1527359001177 (192.168.0.109) 10.74ms referer=http://192.168.0.7:5555/tree
+[W 18:52:20.710 NotebookApp] Forbidden
+[W 18:52:20.714 NotebookApp] 403 GET /api/terminals?_=1527359001178 (192.168.0.109) 9.91ms referer=http://192.168.0.7:5555/tree
+[W 18:53:20.899 NotebookApp] Forbidden
+[W 18:53:20.903 NotebookApp] 403 GET /api/terminals?_=1527359001180 (192.168.0.109) 9.66ms referer=http://192.168.0.7:5555/tree
+[W 18:53:20.916 NotebookApp] Forbidden
+[W 18:53:20.920 NotebookApp] 403 GET /api/sessions?_=1527359001179 (192.168.0.109) 9.93ms referer=http://192.168.0.7:5555/tree
+[W 18:54:20.708 NotebookApp] Forbidden
+[W 18:54:20.712 NotebookApp] 403 GET /api/sessions?_=1527359001181 (192.168.0.109) 10.12ms referer=http://192.168.0.7:5555/tree
+[W 18:54:20.725 NotebookApp] Forbidden
+[W 18:54:20.729 NotebookApp] 403 GET /api/terminals?_=1527359001182 (192.168.0.109) 10.10ms referer=http://192.168.0.7:5555/tree
+[W 18:55:20.709 NotebookApp] Forbidden
+[W 18:55:20.713 NotebookApp] 403 GET /api/sessions?_=1527359001183 (192.168.0.109) 10.53ms referer=http://192.168.0.7:5555/tree
+[W 18:55:20.726 NotebookApp] Forbidden
+[W 18:55:20.730 NotebookApp] 403 GET /api/terminals?_=1527359001184 (192.168.0.109) 9.55ms referer=http://192.168.0.7:5555/tree
+[W 18:56:20.818 NotebookApp] Forbidden
+[W 18:56:20.822 NotebookApp] 403 GET /api/sessions?_=1527359001185 (192.168.0.109) 10.09ms referer=http://192.168.0.7:5555/tree
+[W 18:56:20.832 NotebookApp] Forbidden
+[W 18:56:20.836 NotebookApp] 403 GET /api/terminals?_=1527359001186 (192.168.0.109) 9.34ms referer=http://192.168.0.7:5555/tree
+[W 18:57:20.698 NotebookApp] Forbidden
+[W 18:57:20.702 NotebookApp] 403 GET /api/sessions?_=1527359001187 (192.168.0.109) 10.02ms referer=http://192.168.0.7:5555/tree
+[W 18:57:20.711 NotebookApp] Forbidden
+[W 18:57:20.716 NotebookApp] 403 GET /api/terminals?_=1527359001188 (192.168.0.109) 9.42ms referer=http://192.168.0.7:5555/tree
+[W 18:58:20.839 NotebookApp] Forbidden
+[W 18:58:20.844 NotebookApp] 403 GET /api/terminals?_=1527359001190 (192.168.0.109) 14.54ms referer=http://192.168.0.7:5555/tree
+[W 18:58:20.856 NotebookApp] Forbidden
+[W 18:58:20.861 NotebookApp] 403 GET /api/sessions?_=1527359001189 (192.168.0.109) 12.26ms referer=http://192.168.0.7:5555/tree
+[W 18:59:20.848 NotebookApp] Forbidden
+[W 18:59:20.852 NotebookApp] 403 GET /api/sessions?_=1527359001191 (192.168.0.109) 10.13ms referer=http://192.168.0.7:5555/tree
+[W 18:59:20.863 NotebookApp] Forbidden
+[W 18:59:20.872 NotebookApp] 403 GET /api/terminals?_=1527359001192 (192.168.0.109) 14.78ms referer=http://192.168.0.7:5555/tree
+[W 19:00:20.746 NotebookApp] Forbidden
+[W 19:00:20.750 NotebookApp] 403 GET /api/terminals?_=1527359001194 (192.168.0.109) 9.93ms referer=http://192.168.0.7:5555/tree
+[W 19:00:20.761 NotebookApp] Forbidden
+[W 19:00:20.765 NotebookApp] 403 GET /api/sessions?_=1527359001193 (192.168.0.109) 11.30ms referer=http://192.168.0.7:5555/tree
+[W 19:01:20.724 NotebookApp] Forbidden
+[W 19:01:20.728 NotebookApp] 403 GET /api/terminals?_=1527359001196 (192.168.0.109) 9.86ms referer=http://192.168.0.7:5555/tree
+[W 19:01:20.737 NotebookApp] Forbidden
+[W 19:01:20.741 NotebookApp] 403 GET /api/sessions?_=1527359001195 (192.168.0.109) 9.71ms referer=http://192.168.0.7:5555/tree
+[W 19:02:20.860 NotebookApp] Forbidden
+[W 19:02:20.864 NotebookApp] 403 GET /api/terminals?_=1527359001198 (192.168.0.109) 9.83ms referer=http://192.168.0.7:5555/tree
+[W 19:02:20.874 NotebookApp] Forbidden
+[W 19:02:20.878 NotebookApp] 403 GET /api/sessions?_=1527359001197 (192.168.0.109) 9.88ms referer=http://192.168.0.7:5555/tree
+[W 19:03:20.872 NotebookApp] Forbidden
+[W 19:03:20.876 NotebookApp] 403 GET /api/sessions?_=1527359001199 (192.168.0.109) 10.68ms referer=http://192.168.0.7:5555/tree
+[W 19:03:20.885 NotebookApp] Forbidden
+[W 19:03:20.889 NotebookApp] 403 GET /api/terminals?_=1527359001200 (192.168.0.109) 9.31ms referer=http://192.168.0.7:5555/tree
+[W 19:05:21.425 NotebookApp] Forbidden
+[W 19:05:21.429 NotebookApp] 403 GET /api/terminals?_=1527359001204 (192.168.0.109) 9.83ms referer=http://192.168.0.7:5555/tree
+[W 19:05:21.439 NotebookApp] Forbidden
+[W 19:05:21.444 NotebookApp] 403 GET /api/sessions?_=1527359001203 (192.168.0.109) 10.16ms referer=http://192.168.0.7:5555/tree
+[W 19:06:20.899 NotebookApp] Forbidden
+[W 19:06:20.903 NotebookApp] 403 GET /api/sessions?_=1527359001205 (192.168.0.109) 10.16ms referer=http://192.168.0.7:5555/tree
+[W 19:06:20.916 NotebookApp] Forbidden
+[W 19:06:20.920 NotebookApp] 403 GET /api/terminals?_=1527359001206 (192.168.0.109) 9.93ms referer=http://192.168.0.7:5555/tree
+[W 19:07:20.751 NotebookApp] Forbidden
+[W 19:07:20.756 NotebookApp] 403 GET /api/sessions?_=1527359001207 (192.168.0.109) 10.94ms referer=http://192.168.0.7:5555/tree
+[W 19:07:20.769 NotebookApp] Forbidden
+[W 19:07:20.772 NotebookApp] 403 GET /api/terminals?_=1527359001208 (192.168.0.109) 9.45ms referer=http://192.168.0.7:5555/tree
+[W 19:08:20.817 NotebookApp] Forbidden
+[W 19:08:20.821 NotebookApp] 403 GET /api/sessions?_=1527359001209 (192.168.0.109) 10.61ms referer=http://192.168.0.7:5555/tree
+[W 19:08:20.834 NotebookApp] Forbidden
+[W 19:08:20.838 NotebookApp] 403 GET /api/terminals?_=1527359001210 (192.168.0.109) 9.55ms referer=http://192.168.0.7:5555/tree
+[W 19:09:20.747 NotebookApp] Forbidden
+[W 19:09:20.752 NotebookApp] 403 GET /api/sessions?_=1527359001211 (192.168.0.109) 10.16ms referer=http://192.168.0.7:5555/tree
+[W 19:09:20.765 NotebookApp] Forbidden
+[W 19:09:20.769 NotebookApp] 403 GET /api/terminals?_=1527359001212 (192.168.0.109) 9.41ms referer=http://192.168.0.7:5555/tree
+[W 19:10:20.722 NotebookApp] Forbidden
+[W 19:10:20.727 NotebookApp] 403 GET /api/sessions?_=1527359001213 (192.168.0.109) 11.25ms referer=http://192.168.0.7:5555/tree
+[W 19:10:20.739 NotebookApp] Forbidden
+[W 19:10:20.743 NotebookApp] 403 GET /api/terminals?_=1527359001214 (192.168.0.109) 9.24ms referer=http://192.168.0.7:5555/tree
+[W 19:11:20.696 NotebookApp] Forbidden
+[W 19:11:20.700 NotebookApp] 403 GET /api/sessions?_=1527359001215 (192.168.0.109) 10.84ms referer=http://192.168.0.7:5555/tree
+[W 19:11:20.713 NotebookApp] Forbidden
+[W 19:11:20.717 NotebookApp] 403 GET /api/terminals?_=1527359001216 (192.168.0.109) 9.52ms referer=http://192.168.0.7:5555/tree
+[W 19:12:20.702 NotebookApp] Forbidden
+[W 19:12:20.706 NotebookApp] 403 GET /api/sessions?_=1527359001217 (192.168.0.109) 10.09ms referer=http://192.168.0.7:5555/tree
+[W 19:12:20.719 NotebookApp] Forbidden
+[W 19:12:20.722 NotebookApp] 403 GET /api/terminals?_=1527359001218 (192.168.0.109) 9.47ms referer=http://192.168.0.7:5555/tree
+[W 19:13:20.817 NotebookApp] Forbidden
+[W 19:13:20.821 NotebookApp] 403 GET /api/sessions?_=1527359001219 (192.168.0.109) 10.25ms referer=http://192.168.0.7:5555/tree
+[W 19:13:20.838 NotebookApp] Forbidden
+[W 19:13:20.842 NotebookApp] 403 GET /api/terminals?_=1527359001220 (192.168.0.109) 9.73ms referer=http://192.168.0.7:5555/tree
+[W 19:14:20.756 NotebookApp] Forbidden
+[W 19:14:20.760 NotebookApp] 403 GET /api/sessions?_=1527359001221 (192.168.0.109) 11.29ms referer=http://192.168.0.7:5555/tree
+[W 19:14:20.772 NotebookApp] Forbidden
+[W 19:14:20.776 NotebookApp] 403 GET /api/terminals?_=1527359001222 (192.168.0.109) 9.36ms referer=http://192.168.0.7:5555/tree
+[W 19:15:20.733 NotebookApp] Forbidden
+[W 19:15:20.737 NotebookApp] 403 GET /api/sessions?_=1527359001223 (192.168.0.109) 10.25ms referer=http://192.168.0.7:5555/tree
+[W 19:15:20.750 NotebookApp] Forbidden
+[W 19:15:20.754 NotebookApp] 403 GET /api/terminals?_=1527359001224 (192.168.0.109) 9.73ms referer=http://192.168.0.7:5555/tree
+[W 19:16:20.767 NotebookApp] Forbidden
+[W 19:16:20.771 NotebookApp] 403 GET /api/terminals?_=1527359001226 (192.168.0.109) 9.78ms referer=http://192.168.0.7:5555/tree
+[W 19:16:20.784 NotebookApp] Forbidden
+[W 19:16:20.788 NotebookApp] 403 GET /api/sessions?_=1527359001225 (192.168.0.109) 9.98ms referer=http://192.168.0.7:5555/tree
+[W 19:17:20.781 NotebookApp] Forbidden
+[W 19:17:20.786 NotebookApp] 403 GET /api/sessions?_=1527359001227 (192.168.0.109) 10.61ms referer=http://192.168.0.7:5555/tree
+[W 19:17:20.800 NotebookApp] Forbidden
+[W 19:17:20.804 NotebookApp] 403 GET /api/terminals?_=1527359001228 (192.168.0.109) 9.47ms referer=http://192.168.0.7:5555/tree
+[W 19:18:20.892 NotebookApp] Forbidden
+[W 19:18:20.897 NotebookApp] 403 GET /api/sessions?_=1527359001229 (192.168.0.109) 11.04ms referer=http://192.168.0.7:5555/tree
+[W 19:18:20.910 NotebookApp] Forbidden
+[W 19:18:20.914 NotebookApp] 403 GET /api/terminals?_=1527359001230 (192.168.0.109) 9.47ms referer=http://192.168.0.7:5555/tree
+[W 19:19:20.736 NotebookApp] Forbidden
+[W 19:19:20.740 NotebookApp] 403 GET /api/terminals?_=1527359001232 (192.168.0.109) 9.76ms referer=http://192.168.0.7:5555/tree
+[W 19:19:20.754 NotebookApp] Forbidden
+[W 19:19:20.758 NotebookApp] 403 GET /api/sessions?_=1527359001231 (192.168.0.109) 9.94ms referer=http://192.168.0.7:5555/tree
+[W 19:20:20.704 NotebookApp] Forbidden
+[W 19:20:20.708 NotebookApp] 403 GET /api/terminals?_=1527359001234 (192.168.0.109) 9.81ms referer=http://192.168.0.7:5555/tree
+[W 19:20:20.719 NotebookApp] Forbidden
+[W 19:20:20.722 NotebookApp] 403 GET /api/sessions?_=1527359001233 (192.168.0.109) 10.02ms referer=http://192.168.0.7:5555/tree
+[W 19:21:20.692 NotebookApp] Forbidden
+[W 19:21:20.697 NotebookApp] 403 GET /api/sessions?_=1527359001235 (192.168.0.109) 11.26ms referer=http://192.168.0.7:5555/tree
+[W 19:21:20.710 NotebookApp] Forbidden
+[W 19:21:20.714 NotebookApp] 403 GET /api/terminals?_=1527359001236 (192.168.0.109) 9.56ms referer=http://192.168.0.7:5555/tree
+[W 19:22:20.716 NotebookApp] Forbidden
+[W 19:22:20.720 NotebookApp] 403 GET /api/sessions?_=1527359001237 (192.168.0.109) 10.28ms referer=http://192.168.0.7:5555/tree
+[W 19:22:20.736 NotebookApp] Forbidden
+[W 19:22:20.740 NotebookApp] 403 GET /api/terminals?_=1527359001238 (192.168.0.109) 9.51ms referer=http://192.168.0.7:5555/tree
+[W 19:23:20.924 NotebookApp] Forbidden
+[W 19:23:20.928 NotebookApp] 403 GET /api/sessions?_=1527359001239 (192.168.0.109) 10.65ms referer=http://192.168.0.7:5555/tree
+[W 19:23:20.940 NotebookApp] Forbidden
+[W 19:23:20.944 NotebookApp] 403 GET /api/terminals?_=1527359001240 (192.168.0.109) 9.46ms referer=http://192.168.0.7:5555/tree
+[W 19:24:20.735 NotebookApp] Forbidden
+[W 19:24:20.739 NotebookApp] 403 GET /api/terminals?_=1527359001242 (192.168.0.109) 9.76ms referer=http://192.168.0.7:5555/tree
+[W 19:24:20.749 NotebookApp] Forbidden
+[W 19:24:20.753 NotebookApp] 403 GET /api/sessions?_=1527359001241 (192.168.0.109) 9.93ms referer=http://192.168.0.7:5555/tree
+[W 19:25:20.728 NotebookApp] Forbidden
+[W 19:25:20.732 NotebookApp] 403 GET /api/terminals?_=1527359001244 (192.168.0.109) 18.54ms referer=http://192.168.0.7:5555/tree
+[W 19:25:20.746 NotebookApp] Forbidden
+[W 19:25:20.750 NotebookApp] 403 GET /api/sessions?_=1527359001243 (192.168.0.109) 10.29ms referer=http://192.168.0.7:5555/tree
+[W 19:26:20.817 NotebookApp] Forbidden
+[W 19:26:20.821 NotebookApp] 403 GET /api/sessions?_=1527359001245 (192.168.0.109) 10.31ms referer=http://192.168.0.7:5555/tree
+[W 19:26:20.834 NotebookApp] Forbidden
+[W 19:26:20.838 NotebookApp] 403 GET /api/terminals?_=1527359001246 (192.168.0.109) 9.68ms referer=http://192.168.0.7:5555/tree
+[W 19:27:20.705 NotebookApp] Forbidden
+[W 19:27:20.709 NotebookApp] 403 GET /api/sessions?_=1527359001247 (192.168.0.109) 10.08ms referer=http://192.168.0.7:5555/tree
+[W 19:27:20.723 NotebookApp] Forbidden
+[W 19:27:20.727 NotebookApp] 403 GET /api/terminals?_=1527359001248 (192.168.0.109) 9.97ms referer=http://192.168.0.7:5555/tree
+[W 19:28:20.961 NotebookApp] Forbidden
+[W 19:28:20.966 NotebookApp] 403 GET /api/sessions?_=1527359001249 (192.168.0.109) 10.52ms referer=http://192.168.0.7:5555/tree
+[W 19:28:20.978 NotebookApp] Forbidden
+[W 19:28:20.982 NotebookApp] 403 GET /api/terminals?_=1527359001250 (192.168.0.109) 9.58ms referer=http://192.168.0.7:5555/tree
+[W 19:29:20.711 NotebookApp] Forbidden
+[W 19:29:20.716 NotebookApp] 403 GET /api/sessions?_=1527359001251 (192.168.0.109) 10.91ms referer=http://192.168.0.7:5555/tree
+[W 19:29:20.728 NotebookApp] Forbidden
+[W 19:29:20.732 NotebookApp] 403 GET /api/terminals?_=1527359001252 (192.168.0.109) 9.55ms referer=http://192.168.0.7:5555/tree
+[W 19:30:20.873 NotebookApp] Forbidden
+[W 19:30:20.877 NotebookApp] 403 GET /api/sessions?_=1527359001253 (192.168.0.109) 10.60ms referer=http://192.168.0.7:5555/tree
+[W 19:30:20.889 NotebookApp] Forbidden
+[W 19:30:20.893 NotebookApp] 403 GET /api/terminals?_=1527359001254 (192.168.0.109) 9.28ms referer=http://192.168.0.7:5555/tree
+[W 19:31:20.881 NotebookApp] Forbidden
+[W 19:31:20.885 NotebookApp] 403 GET /api/sessions?_=1527359001255 (192.168.0.109) 10.58ms referer=http://192.168.0.7:5555/tree
+[W 19:31:20.897 NotebookApp] Forbidden
+[W 19:31:20.901 NotebookApp] 403 GET /api/terminals?_=1527359001256 (192.168.0.109) 9.36ms referer=http://192.168.0.7:5555/tree
+[W 19:32:20.892 NotebookApp] Forbidden
+[W 19:32:20.897 NotebookApp] 403 GET /api/terminals?_=1527359001258 (192.168.0.109) 10.00ms referer=http://192.168.0.7:5555/tree
+[W 19:32:20.907 NotebookApp] Forbidden
+[W 19:32:20.911 NotebookApp] 403 GET /api/sessions?_=1527359001257 (192.168.0.109) 10.02ms referer=http://192.168.0.7:5555/tree
+[W 19:33:20.716 NotebookApp] Forbidden
+[W 19:33:20.720 NotebookApp] 403 GET /api/sessions?_=1527359001259 (192.168.0.109) 12.68ms referer=http://192.168.0.7:5555/tree
+[W 19:33:20.734 NotebookApp] Forbidden
+[W 19:33:20.737 NotebookApp] 403 GET /api/terminals?_=1527359001260 (192.168.0.109) 9.95ms referer=http://192.168.0.7:5555/tree
+[W 19:34:20.709 NotebookApp] Forbidden
+[W 19:34:20.712 NotebookApp] 403 GET /api/sessions?_=1527359001261 (192.168.0.109) 7.73ms referer=http://192.168.0.7:5555/tree
+[W 19:34:20.719 NotebookApp] Forbidden
+[W 19:34:20.722 NotebookApp] 403 GET /api/terminals?_=1527359001262 (192.168.0.109) 7.30ms referer=http://192.168.0.7:5555/tree
+[W 19:35:20.745 NotebookApp] Forbidden
+[W 19:35:20.749 NotebookApp] 403 GET /api/sessions?_=1527359001263 (192.168.0.109) 11.19ms referer=http://192.168.0.7:5555/tree
+[W 19:35:20.762 NotebookApp] Forbidden
+[W 19:35:20.766 NotebookApp] 403 GET /api/terminals?_=1527359001264 (192.168.0.109) 9.86ms referer=http://192.168.0.7:5555/tree
+[W 19:36:20.918 NotebookApp] Forbidden
+[W 19:36:20.922 NotebookApp] 403 GET /api/sessions?_=1527359001265 (192.168.0.109) 10.30ms referer=http://192.168.0.7:5555/tree
+[W 19:36:20.935 NotebookApp] Forbidden
+[W 19:36:20.939 NotebookApp] 403 GET /api/terminals?_=1527359001266 (192.168.0.109) 9.46ms referer=http://192.168.0.7:5555/tree
+[W 19:37:21.032 NotebookApp] Forbidden
+[W 19:37:21.037 NotebookApp] 403 GET /api/terminals?_=1527359001268 (192.168.0.109) 10.00ms referer=http://192.168.0.7:5555/tree
+[W 19:37:21.051 NotebookApp] Forbidden
+[W 19:37:21.055 NotebookApp] 403 GET /api/sessions?_=1527359001267 (192.168.0.109) 13.62ms referer=http://192.168.0.7:5555/tree
+[W 19:47:58.997 NotebookApp] Forbidden
+[W 19:47:59.002 NotebookApp] 403 GET /api/sessions?_=1527359001269 (192.168.0.109) 11.39ms referer=http://192.168.0.7:5555/tree
+[W 19:47:59.016 NotebookApp] Forbidden
+[W 19:47:59.020 NotebookApp] 403 GET /api/terminals?_=1527359001270 (192.168.0.109) 9.63ms referer=http://192.168.0.7:5555/tree
+[W 19:48:20.559 NotebookApp] Forbidden
+[W 19:48:20.565 NotebookApp] 403 GET /api/sessions?_=1527359001271 (192.168.0.109) 24.80ms referer=http://192.168.0.7:5555/tree
+[W 19:48:20.585 NotebookApp] Forbidden
+[W 19:48:20.589 NotebookApp] 403 GET /api/terminals?_=1527359001272 (192.168.0.109) 12.77ms referer=http://192.168.0.7:5555/tree
+[W 17:29:57.736 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 17:29:57.833 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis
+[I 17:29:57.834 NotebookApp] 0 active kernels
+[I 17:29:57.835 NotebookApp] The Jupyter Notebook is running at:
+[I 17:29:57.835 NotebookApp] http://[all ip addresses on your system]:5555/?token=c80111baad65cc8987aeb7fac2314288cf1593b254a91e61
+[I 17:29:57.836 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:29:57.838 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=c80111baad65cc8987aeb7fac2314288cf1593b254a91e61
+[I 17:30:10.483 NotebookApp] 302 GET /tree (192.168.0.109) 13.66ms
+[I 17:30:11.734 NotebookApp] 302 GET /notebooks/value_getter.ipynb (192.168.0.109) 7.39ms
+[I 17:30:13.748 NotebookApp] 302 GET /edit/refreshTable.py (192.168.0.109) 9.00ms
+[I 17:30:14.494 NotebookApp] 302 GET /edit/static/js/tables.js (192.168.0.109) 9.25ms
+[W 17:30:47.926 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fvalue_getter.ipynb (192.168.0.109) 22.09ms referer=http://192.168.0.7:5555/login?next=%2Fnotebooks%2Fvalue_getter.ipynb
+[I 17:31:42.266 NotebookApp] 302 GET /?token=c80111baad65cc8987aeb7fac2314288cf1593b254a91e61 (192.168.0.109) 4.85ms
+[I 17:32:19.952 NotebookApp] Kernel started: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 17:32:26.047 NotebookApp] Adapting to protocol v5.1 for kernel 59761e28-bf7d-4296-8c10-e328b0261662
+[I 17:34:22.962 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:36:22.457 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:38:18.301 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:38:18.955 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 17:38:22.824 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:38:48.450 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:38:48.852 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 17:40:11.211 NotebookApp] Saving file at /value_getter.ipynb
+[I 17:40:22.415 NotebookApp] Saving file at /value_getter.ipynb
+[W 17:42:56.055 NotebookApp] WebSocket ping timeout after 119979 ms.
+[I 17:43:01.067 NotebookApp] Starting buffering for 59761e28-bf7d-4296-8c10-e328b0261662:ccc5c7bfdd8d46fdbbae8093b755f748
+[I 18:26:21.245 NotebookApp] Adapting to protocol v5.1 for kernel 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:26:21.256 NotebookApp] Restoring connection for 59761e28-bf7d-4296-8c10-e328b0261662:ccc5c7bfdd8d46fdbbae8093b755f748
+[I 18:27:02.334 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:27:28.512 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:28:21.807 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:30:08.246 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:30:08.707 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:30:21.831 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:30:40.187 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:30:50.319 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:30:59.177 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:31:04.613 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:31:29.478 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:31:36.194 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:32:24.557 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:45:04.389 NotebookApp] Saving file at /static/js/tables.js
+[I 18:46:24.778 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:49:03.080 NotebookApp] Saving file at /static/js/tables.js
+[I 18:49:17.180 NotebookApp] Saving file at /static/js/tables.js
+[I 18:50:05.950 NotebookApp] Saving file at /static/js/tables.js
+[I 18:50:27.130 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:52:18.161 NotebookApp] Saving file at /static/js/tables.js
+[I 18:53:22.474 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 18:54:12.855 NotebookApp] Saving file at /static/js/tables.js
+[I 18:54:22.584 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:54:48.786 NotebookApp] Saving file at /static/js/tables.js
+[I 18:55:50.040 NotebookApp] Saving file at /static/js/tables.js
+[I 18:56:24.558 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:57:53.326 NotebookApp] Saving file at /static/js/tables.js
+[I 18:58:06.419 NotebookApp] Saving file at /static/js/tables.js
+[I 18:58:26.136 NotebookApp] Saving file at /value_getter.ipynb
+[I 18:59:50.450 NotebookApp] Saving file at /static/js/tables.js
+[I 19:00:29.433 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:00:50.558 NotebookApp] Saving file at /static/js/tables.js
+[I 19:01:10.546 NotebookApp] Saving file at /static/js/tables.js
+[I 19:02:35.004 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:02:36.205 NotebookApp] Saving file at /static/js/tables.js
+[I 19:02:36.236 NotebookApp] Saving file at /static/js/tables.js
+[I 19:05:23.428 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:06:20.827 NotebookApp] Saving file at /static/js/tables.js
+[I 19:07:04.965 NotebookApp] Saving file at /static/js/tables.js
+[I 19:08:41.423 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:19:37.427 NotebookApp] Saving file at /static/js/tables.js
+[I 19:19:54.713 NotebookApp] Saving file at /static/js/tables.js
+[I 19:20:52.437 NotebookApp] Saving file at /static/js/tables.js
+[I 19:20:55.433 NotebookApp] Saving file at /static/js/tables.js
+[I 19:21:36.212 NotebookApp] Saving file at /static/js/tables.js
+[I 19:22:00.885 NotebookApp] Saving file at /static/js/tables.js
+[I 19:22:52.301 NotebookApp] Saving file at /static/js/tables.js
+[I 19:23:16.189 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:24:14.522 NotebookApp] Saving file at /static/js/tables.js
+[I 19:24:37.362 NotebookApp] Saving file at /static/js/tables.js
+[I 19:28:01.668 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:38:41.337 NotebookApp] Saving file at /static/js/tables.js
+[I 19:39:33.131 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:42:32.168 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 19:43:40.348 NotebookApp] Saving file at /static/js/tables.js
+[I 19:44:29.285 NotebookApp] Saving file at /static/js/tables.js
+[I 19:44:40.889 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:45:42.797 NotebookApp] Saving file at /static/js/tables.js
+[I 19:45:52.769 NotebookApp] Saving file at /static/js/tables.js
+[I 19:50:12.271 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:50:43.382 NotebookApp] Saving file at /static/js/tables.js
+[I 19:52:20.968 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 19:52:57.347 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:54:02.811 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:54:09.233 NotebookApp] Saving file at /static/js/tables.js
+[I 19:55:41.426 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:56:36.509 NotebookApp] Saving file at /static/js/tables.js
+[I 19:57:56.489 NotebookApp] Kernel interrupted: 59761e28-bf7d-4296-8c10-e328b0261662
+[I 19:57:59.797 NotebookApp] Saving file at /value_getter.ipynb
+[I 19:58:08.305 NotebookApp] Saving file at /value_getter.ipynb
+[W 20:00:51.257 NotebookApp] WebSocket ping timeout after 119917 ms.
+[I 20:00:56.262 NotebookApp] Starting buffering for 59761e28-bf7d-4296-8c10-e328b0261662:ccc5c7bfdd8d46fdbbae8093b755f748

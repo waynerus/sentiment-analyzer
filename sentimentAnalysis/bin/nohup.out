@@ -1,0 +1,14 @@
+[W 03:01:16.722 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 03:01:16.814 NotebookApp] Serving notebooks from local directory: /home/pi/python_code/sentimentAnalysis/bin
+[I 03:01:16.815 NotebookApp] 0 active kernels
+[I 03:01:16.815 NotebookApp] The Jupyter Notebook is running at:
+[I 03:01:16.816 NotebookApp] http://[all ip addresses on your system]:5555/?token=60f2535ace347f2bc161fb0d2d07c0081ebdf8033af01d74
+[I 03:01:16.816 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:01:16.819 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:5555/?token=60f2535ace347f2bc161fb0d2d07c0081ebdf8033af01d74
+[I 03:01:35.943 NotebookApp] 302 GET / (192.168.0.109) 5.39ms
+[C 03:02:06.455 NotebookApp] received signal 15, stopping
+[I 03:02:06.463 NotebookApp] Shutting down 0 kernels
